@@ -1,0 +1,35 @@
+#sub{
+    text-align:center;
+    font-size:25px;
+    border:5px dotted blue;
+    border-radius:20px;
+    margin-left:500px;
+    margin-right:500px;
+    padding:30px;
+    color:maroon;
+    font-weight:200px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+.box{
+    text-align:center;
+    border:1px solid pink;
+    border-radius:3px;
+    box-shadow:5px 5px 5px grey;
+    margin-left:500px;
+    margin-right:500px;
+    font-size:26px;
+    
+
+}
+.box p:hover{
+    
+}
+.emil{
+
+}
+#task{
+    text-align:center;
+}
+
